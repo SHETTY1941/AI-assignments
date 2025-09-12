@@ -1,1 +1,7 @@
 # AI-assignments
+ID     : B211623  
+NAME   : SHETTY BHAVANI VARA PRASAD  
+YEAR   : E3  
+BRANCH : CSE  
+CLASS  : C4  
+ROLLNO : 57  
